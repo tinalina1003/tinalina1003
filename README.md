@@ -3,6 +3,12 @@
 <h2>🪧About Me</h2>
 My Name is Christina and I am 29 years old aspiring to be a Data Analyst. I graduated from University of Toronto with an Honours Bachelors of Arts and Science with a Physics Specialist and a Math Minor. I have been coding since undergrad modeling mostly for physics and mathematics. I have working experience in data modeling during my time at Partner Reinsurance using programs such as R and SQL; my time there solidified my passion for data analytics. <br>
 
+<h2>🎯 Goals</h2>
+
+* Be more proficient with languages I am familiar with (Python, HTML) and learn new languages (R)
+
+* Become a self sufficient Data Analyst and, if possible, branch to Data Science and/or Engineering
+
 <h2>Languages and Tools</h2>
 <h3>Programming Languages</h3>
 <p align="left"> 
@@ -36,12 +42,6 @@ My Name is Christina and I am 29 years old aspiring to be a Data Analyst. I grad
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
 
 
-
-<h2>🎯 Goals</h2>
-
-* Be more proficient with languages I am familiar with (Python, HTML) and learn new languages (R)
-
-* Become a self sufficient Data Analyst and, if possible, branch to Data Science and/or Engineering
 
 <h2>👩‍💼 Work Experience</h2>
 
