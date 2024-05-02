@@ -43,7 +43,7 @@ My Name is Christina and I am 29 years old aspiring to be a Data Analyst. I grad
 
 
 
-<h2>👩‍💼 Work Experience</h2>
+<h2>📄 Work Experience</h2>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/christina-leung1003/" target="blank">
