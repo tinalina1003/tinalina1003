@@ -9,9 +9,11 @@ My Name is Christina and I am 29 years old aspiring to be a Data Analyst. I grad
 
 * Become a self sufficient Data Analyst and, if possible, branch to Data Science and/or Engineering
 
-<h2>📫 Contact Me</h2>
+<h2>👩‍💼 Experience </h2>
 
 * [LinkedIn](https://www.linkedin.com/in/christina-leung1003/)
 
+<h2>📫 Contact Me</h2>
 
+[Gmail](tinalina1003@gmail.com)
 
