@@ -9,37 +9,6 @@ My Name is Christina and I am 29 years old aspiring to be a Data Analyst. I grad
 
 * Become a self sufficient Data Analyst and, if possible, branch to Data Science and/or Engineering
 
-<h2>💬 Experience</h2>
-
-<h3>👩‍💼 Work</h3>
-
-- Catastrophe Modelling Analyst
-
-  - Partner Reinsurance, 2022-2023
- 
-- Data Center Analyst
-
-  - BGIS/Bell Canada, 2020-2022
-
-- Research Assistant
-
-  - University of Toronto, 2017-2019
-
-
-<h3>🏫 School</h3>
-
-- Data Analytics BootCamp
-
-  - University of Toronto School of Continuing Studies, 2023-2024
- 
-- Electronics Engineering
-
-  - Seneca Polytechnic, 2020-2021
-
-- Physics Specialist, Mathematics Minor
-
-   - University of Toronto, 2014-2019
-
 <h2>📫 Contact Me</h2>
 
 * [LinkedIn](https://www.linkedin.com/in/christina-leung1003/)
