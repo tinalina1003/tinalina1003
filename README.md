@@ -15,5 +15,5 @@ My Name is Christina and I am 29 years old aspiring to be a Data Analyst. I grad
 
 <h2>📫 Contact Me</h2>
 
-[Gmail](tinalina1003@gmail.com)
+* gmail: tinalina1003@gmail.com
 
