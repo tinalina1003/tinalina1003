@@ -13,6 +13,5 @@ My Name is Christina and I am 29 years old aspiring to be a Data Analyst. I grad
 
 * [LinkedIn](https://www.linkedin.com/in/christina-leung1003/)
 
-![Metrics](/github-metrics.svg), <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">, or <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 
