@@ -1,7 +1,7 @@
 <h1 align="center">🥰 Hello! I'm TinaLina</h1>
 
 <h2>🪧About Me</h2>
-My Name is Christina and I am 29 years old aspiring to be a Data Analyst. I graduated from University of Toronto with an Honours Bachelors of Arts and Science with a Physics Specialist and a Math Minor. I have been coding since undergrad modeling mostly for physics and mathematics. I have working experience in data modeling during my time at Partner Reinsurance using programs such as R and SQL; my time there solidified my passion for data analytics. <br>
+My Name is Christina and I am 31 years old aspiring to be a Data Analyst. I graduated from University of Toronto with an Honours Bachelors of Arts and Science with a Physics Specialist and a Math Minor. I have been coding since undergrad modeling mostly for physics and mathematics. I have working experience in data modeling during my time at Partner Reinsurance using programs such as R and SQL; my time there solidified my passion for data analytics. <br>
 
 <h2>🎯 Goals</h2>
 
